@@ -1,0 +1,15 @@
+.coin__header {
+}
+
+.coin__headerItems {
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+}
+
+.coin__headerItems p{
+  margin-right: 38px;
+  position: relative;
+  left: 18%;
+}
+
